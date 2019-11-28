@@ -22,6 +22,10 @@ public class EjerciciosBasicosJava {
         return false;
     }
     
+       public int multa (int velocidad, boolean birthday){
+           return 0; 
+       }
+    
     
     
     /**
